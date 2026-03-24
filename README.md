@@ -48,12 +48,16 @@ This commands includes
 
 ## hostname
 <img width="1185" height="465" alt="Screenshot 2026-03-24 210209" src="https://github.com/user-attachments/assets/0c422025-14eb-4ddd-a780-626dba84c9e2" />
+
 ## nbtstat
 <img width="1129" height="779" alt="Screenshot 2026-03-24 210109" src="https://github.com/user-attachments/assets/46bf581b-5d02-4df7-8ace-a240992bbdb2" />
+
 ## arp
 <img width="1252" height="915" alt="Screenshot 2026-03-24 210049" src="https://github.com/user-attachments/assets/8b1cd3d8-99db-4210-b221-76bc1ddea65b" />
+
 ## systeminfo
 <img width="861" height="969" alt="Screenshot 2026-03-24 211352" src="https://github.com/user-attachments/assets/1e48257b-b74e-4d4f-8a1d-cdab5100c1bb" />
+
 
 
 ## Result
