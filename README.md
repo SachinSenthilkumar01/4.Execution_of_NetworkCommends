@@ -31,7 +31,7 @@ This commands includes
 <img width="932" height="850" alt="Screenshot 2026-03-24 210445" src="https://github.com/user-attachments/assets/2cd4c0ad-8179-4db8-83e7-dd3a4f1f61dc" />
 ## ipconfig
 <img width="1128" height="970" alt="Screenshot 2026-03-24 210341" src="https://github.com/user-attachments/assets/a49c3e3a-d750-4408-9983-8f5bbf869ff6" />
-### ping
+## ping
 <img width="1166" height="584" alt="Screenshot 2026-03-24 210907" src="https://github.com/user-attachments/assets/8e84dc8e-2a96-4e23-82ff-31558f75409f" />
 ## tracert
 <img width="1002" height="311" alt="Screenshot 2026-03-24 211026" src="https://github.com/user-attachments/assets/75384707-44c6-45d3-8ce8-2db9b8fa17a1" />
